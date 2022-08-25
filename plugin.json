@@ -8,22 +8,22 @@
     },
     "authors": [
         {
-            "name": "Matomo",
-            "email": "",
-            "homepage": ""
+            "name": "Ronan Chardonneau",
+            "email": "contact@ronan-chardonneau.com",
+            "homepage": "https://ronan-chardonneau.fr"
         }
     ],
     "support": {
-        "email": "",
-        "issues": "",
-        "forum": "",
+        "email": "contact@ronan-chardonneau.com",
+        "issues": "https://github.com/Chardonneaur/UploadToogle/issues",
+        "forum": "https://forum.matomo.org",
         "irc": "",
         "wiki": "",
-        "source": "",
+        "source": "https://github.com/Chardonneaur/UploadToogle",
         "docs": "",
         "rss": ""
     },
-    "homepage": "",
+    "homepage": "https://ronan-chardonneau.fr",
     "license": "GPL v3+",
-    "keywords": []
+    "keywords": ["upload"]
 }
